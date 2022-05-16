@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fn0191
+- 👋 Hi, I’m Nisa
 - 👀 I’m interested in automation code
 - 🌱 I have knowledgeable in selenium webdriver, cypress, API and etc
 - 🌱 I’m Currently trying to learn appium, katalon-katalium - K6,and other tools
