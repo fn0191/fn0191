@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nisa
 - 👀 I’m interested in automation code
 - 🌱 I have knowledgeable in selenium webdriver, cypress, API and etc
-- 🌱 I’m Currently learning appium, K6,and other tools
+- 🌱 I’m also learning appium, K6,and other tools
 - 💞️ I'm looking to try something more challenging
 - 📫 How to reach me fadhilatunnisaa@gmail.com
 
